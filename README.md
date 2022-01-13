@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabslaura
 - 👀 I'm interested in learning more about the digital world.
 - 🌱 I’m currently learning Veterinary Medicine
-- 📫 How to reach me insta @gabs_l.aura|@space_medvet
+- 📫 How to reach me facebook Laura Gabriela
 
 <!---
 Gabslaura/Gabslaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
